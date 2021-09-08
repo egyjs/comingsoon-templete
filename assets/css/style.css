@@ -11,8 +11,8 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
-  background: linear-gradient(280deg, #fcc10e, #5d4600, rgb(0 0 0));
-  background-size: cover;
+  background: url(https://i.imgur.com/gsvJXfU.png);
+  background-size:cover;
   position: relative;
 }
 
